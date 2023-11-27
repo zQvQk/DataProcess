@@ -1,0 +1,6 @@
+[submodule "SparkProject"]
+	path = SparkProject
+	url = https://github.com/arield3/SparkProject.git
+[submodule "FlinkProject"]
+	path = FlinkProject
+	url = https://github.com/arield3/FlinkProject.git
